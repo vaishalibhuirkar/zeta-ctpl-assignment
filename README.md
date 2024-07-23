@@ -1,10 +1,12 @@
 # zeta-ctpl-assignment
 1. Menu driven program to perform following operation on Employee collection
 	handle invalid choice by defining custom exception
+
 Employee(id,name,Address,age,joiningDate,salary)
 Address(id,city,pincode)
 EmployeeOpr
 Main
+
 case 1: Add new Employee
 case 2 : Search employee by name
 case 3. delete employee 
