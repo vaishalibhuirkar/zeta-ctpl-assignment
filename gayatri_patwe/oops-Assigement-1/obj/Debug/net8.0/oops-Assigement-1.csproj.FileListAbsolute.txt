@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\csharp pr\oops-Assigement-1\oops-Assigement-1\bin\Debug\net8.0\oops-Assigement-1.exe
+C:\Users\lenovo\Desktop\csharp pr\oops-Assigement-1\oops-Assigement-1\bin\Debug\net8.0\oops-Assigement-1.deps.json
+C:\Users\lenovo\Desktop\csharp pr\oops-Assigement-1\oops-Assigement-1\bin\Debug\net8.0\oops-Assigement-1.runtimeconfig.json
+C:\Users\lenovo\Desktop\csharp pr\oops-Assigement-1\oops-Assigement-1\bin\Debug\net8.0\oops-Assigement-1.dll
+C:\Users\lenovo\Desktop\csharp pr\oops-Assigement-1\oops-Assigement-1\bin\Debug\net8.0\oops-Assigement-1.pdb
+C:\Users\lenovo\Desktop\csharp pr\oops-Assigement-1\oops-Assigement-1\obj\Debug\net8.0\oops-Assigement-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\csharp pr\oops-Assigement-1\oops-Assigement-1\obj\Debug\net8.0\oops-Assigement-1.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\csharp pr\oops-Assigement-1\oops-Assigement-1\obj\Debug\net8.0\oops-Assigement-1.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\csharp pr\oops-Assigement-1\oops-Assigement-1\obj\Debug\net8.0\oops-Assigement-1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\csharp pr\oops-Assigement-1\oops-Assigement-1\obj\Debug\net8.0\oops-Assigement-1.dll
+C:\Users\lenovo\Desktop\csharp pr\oops-Assigement-1\oops-Assigement-1\obj\Debug\net8.0\refint\oops-Assigement-1.dll
+C:\Users\lenovo\Desktop\csharp pr\oops-Assigement-1\oops-Assigement-1\obj\Debug\net8.0\oops-Assigement-1.pdb
+C:\Users\lenovo\Desktop\csharp pr\oops-Assigement-1\oops-Assigement-1\obj\Debug\net8.0\oops-Assigement-1.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\csharp pr\oops-Assigement-1\oops-Assigement-1\obj\Debug\net8.0\ref\oops-Assigement-1.dll

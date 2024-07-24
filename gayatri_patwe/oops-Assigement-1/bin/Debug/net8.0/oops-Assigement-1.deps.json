@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "oops-Assigement-1/1.0.0": {
+        "runtime": {
+          "oops-Assigement-1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "oops-Assigement-1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
